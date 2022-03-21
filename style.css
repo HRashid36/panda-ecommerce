@@ -32,3 +32,30 @@
 .container{
     margin-bottom: 100px;
 }
+.cat1{
+    background-color: orange;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+
+.cat2{
+    background-color: rgb(255, 0, 149);
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+
+.cat3{
+    background-color: rgb(68, 0, 255);
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+
+.card{
+    box-shadow: 5px 5px 10px lightgray;
+}
