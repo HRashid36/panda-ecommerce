@@ -59,3 +59,13 @@
 .card{
     box-shadow: 5px 5px 10px lightgray;
 }
+#SUBSCRIBE{
+    height: 300px;
+}
+
+#SUBSCRIBE h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
